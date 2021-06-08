@@ -1,0 +1,24 @@
+fileFormatVersion: 2
+guid: ed7d0a3fa4087364c98d48c0df469d8e
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Hero Stickman Demo
+  fontNames:
+  - Hero Stickman Demo
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 438cb985bf11ab04fb762aaf8b9924c1, type: 3}
+  - {fileID: 12800000, guid: f9576efc1b425b14580d09aae11d6812, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

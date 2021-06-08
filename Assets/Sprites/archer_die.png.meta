@@ -1,0 +1,356 @@
+fileFormatVersion: 2
+guid: f0dca6d7031794449b6eca4c7f741edf
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 550757529641666791
+    second: archer_die_0
+  - first:
+      213: -2404259615869882738
+    second: archer_die_1
+  - first:
+      213: -54909498084052266
+    second: archer_die_2
+  - first:
+      213: -4479042743296749057
+    second: archer_die_3
+  - first:
+      213: 2500360748848514500
+    second: archer_die_4
+  - first:
+      213: -6206464577420409486
+    second: archer_die_5
+  - first:
+      213: 955139298501751265
+    second: archer_die_6
+  - first:
+      213: 2243143991634571405
+    second: archer_die_7
+  - first:
+      213: 5694103464400805412
+    second: archer_die_8
+  - first:
+      213: 269355737121082351
+    second: archer_die_9
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: archer_die_0
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 282
+        width: 317
+        height: 343
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e8c9af1e0fa4a700800000000000000
+      internalID: 550757529641666791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: archer_die_1
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 281
+        width: 325
+        height: 324
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8e22402e9a52aed0800000000000000
+      internalID: -2404259615869882738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: archer_die_2
+      rect:
+        serializedVersion: 2
+        x: 1057
+        y: 279
+        width: 332
+        height: 303
+      alignment: 9
+      pivot: {x: 0.53105146, y: 0.5000003}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d2b7e73a1cec3ff0800000000000000
+      internalID: -54909498084052266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: archer_die_3
+      rect:
+        serializedVersion: 2
+        x: 1551
+        y: 279
+        width: 331
+        height: 301
+      alignment: 9
+      pivot: {x: 0.56229055, y: 0.5000004}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff191002b5e37d1c0800000000000000
+      internalID: -4479042743296749057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: archer_die_4
+      rect:
+        serializedVersion: 2
+        x: 2047
+        y: 279
+        width: 332
+        height: 298
+      alignment: 9
+      pivot: {x: 0.5931544, y: 0.5000002}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c502758ad013b220800000000000000
+      internalID: 2500360748848514500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: archer_die_5
+      rect:
+        serializedVersion: 2
+        x: 2581
+        y: 239
+        width: 331
+        height: 289
+      alignment: 9
+      pivot: {x: 0.60900766, y: 0.5000004}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 275cfcf99553ed9a0800000000000000
+      internalID: -6206464577420409486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: archer_die_6
+      rect:
+        serializedVersion: 2
+        x: 3176
+        y: 217
+        width: 360
+        height: 278
+      alignment: 9
+      pivot: {x: 0.6288635, y: 0.50000036}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e17636a126514d00800000000000000
+      internalID: 955139298501751265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: archer_die_7
+      rect:
+        serializedVersion: 2
+        x: 3809
+        y: 189
+        width: 394
+        height: 271
+      alignment: 9
+      pivot: {x: 0.6700743, y: 0.55706215}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d803e61639f312f10800000000000000
+      internalID: 2243143991634571405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: archer_die_8
+      rect:
+        serializedVersion: 2
+        x: 4515
+        y: 123
+        width: 352
+        height: 306
+      alignment: 9
+      pivot: {x: 0.6903673, y: 0.7184559}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42e5ee5aee4850f40800000000000000
+      internalID: 5694103464400805412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: archer_die_9
+      rect:
+        serializedVersion: 2
+        x: 5202
+        y: 52
+        width: 306
+        height: 352
+      alignment: 9
+      pivot: {x: 0.7358287, y: 0.82555586}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: febc055ad91fcb300800000000000000
+      internalID: 269355737121082351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
